@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">🧑‍🎓 I’m an IT Student at 1337 coding school (42 Network)<br><br>🌱 I’m currently learning C & C++ programming languages<br><br>👨‍💻 All of my projects are available at GitHub<br><br>💬 Ask me about any information related to the field of programming.<br><br>📫 How to reach me haythamhammioui16@gmail.com</p>
+<p align="left">▰ 🧑‍🎓 I’m an IT Student at 1337 coding school (42 Network)<br><br>▰ 🌱 I’m currently learning C & C++ programming languages<br><br>▰ 👨‍💻 All of my projects are available at GitHub<br><br>▰ 💬 Ask me about any information related to the field of programming.<br><br>▰ 📫 How to reach me haythamhammioui16@gmail.com</p>
 
 ###
 
@@ -59,6 +59,11 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haytham-hammioui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="130" alt="languages graph"  />
+</div>
+
+###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haytham-hammioui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="130" alt="languages graph"  />
 </div>
