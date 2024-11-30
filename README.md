@@ -33,7 +33,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&v
 ###
 
 <div align="center">
-  <img alt="Coding" width="600" src="https://github.com/user-attachments/assets/cc775738-c503-4b12-938f-c5063364e135"/>
+  <img alt="Coding" width="600" src="https://github-production-user-asset-6210df.s3.amazonaws.com/108549595/363767906-cc775738-c503-4b12-938f-c5063364e135.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241130%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241130T155140Z&X-Amz-Expires=300&X-Amz-Signature=17e614ebdbb4e73d50b2ac04d536c87b3345157cabb30e8f922525ff21e62614&X-Amz-SignedHeaders=host"/>
 </div>
 
 ###
