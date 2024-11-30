@@ -6,13 +6,6 @@
 SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Haytham;I'm+from+Morocco;I'm+a+It+Student;Be+Welcome!+ツ)
 
 
-###
-
-<div align="center">
-  <img alt="Coding" width="600" src="https://github.com/user-attachments/assets/cc775738-c503-4b12-938f-c5063364e135"/>
-</div>
-
-###
 
 <h3 align="center">IT Student | Passionate about coding and problem-solving | Always learning, always improving.</h3>
 
@@ -88,6 +81,10 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&v
 </div>
 
 ###
+
+<div align="center">
+  <img alt="Coding" width="600" src="https://github.com/user-attachments/assets/cc775738-c503-4b12-938f-c5063364e135"/>
+</div>
 
 <a href="#">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=footer" />
