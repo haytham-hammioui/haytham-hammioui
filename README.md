@@ -80,7 +80,6 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&v
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haytham-hammioui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="130" alt="languages graph"  />
 </div>
 
-###
 
 <div align="center">
   <img alt="Coding" width="600" src="https://github.com/user-attachments/assets/cc775738-c503-4b12-938f-c5063364e135"/>
