@@ -32,9 +32,17 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&v
 
 ###
 
-<div align="center">
-  <img alt="Coding" width="600" src="https://github-production-user-asset-6210df.s3.amazonaws.com/108549595/363767906-cc775738-c503-4b12-938f-c5063364e135.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241130%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241130T155140Z&X-Amz-Expires=300&X-Amz-Signature=17e614ebdbb4e73d50b2ac04d536c87b3345157cabb30e8f922525ff21e62614&X-Amz-SignedHeaders=host"/>
-</div>
+<!--
+ -
+-->
+<p align="center">
+ <a href="https://profile.intra.42.fr/users/sloquet">
+    <img alt="42intra" src="https://img.shields.io/badge/cursus-lvl 1.46-white?style=for-the-badge&logo=42&labelColor=000000&Color=FFFFFF&logoWidth=20" />
+ </a>
+</p>
+<!-- <p align="center">
+ <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/hhammiou" alt="hhammiou's 42 stats" />
+</p> -->
 
 ###
 
