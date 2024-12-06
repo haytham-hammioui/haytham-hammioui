@@ -1,9 +1,9 @@
 <a href="#">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6B0606&height=120&section=header" />
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=300e11&height=120&section=header" />
 </a>
 
 ![Typing
-SVG](https://readme-typing-svg.herokuapp.com/?color=6B0606&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Haytham;I'm+from+Morocco;I'm+a+It+Student;Be+Welcome!+ツ)
+SVG](https://readme-typing-svg.herokuapp.com/?color=300e11&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Haytham;I'm+from+Morocco;I'm+a+It+Student;Be+Welcome!+ツ)
 
 
 
@@ -93,5 +93,5 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=6B0606&size=35&center=true&v
 
 
 <a href="#">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=footer" />
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=300e11&height=120&section=footer" />
 </a>
