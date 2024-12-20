@@ -22,7 +22,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=600C14&size=35&center=true&v
   <a href="https://x.com/Haytham_Hm8?s=09" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="https://www.instagram.com/haytham_hm8" target="_blank">
+  <a href="https://www.instagram.com/haytham_hm8.v2" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="https://wa.me/qr/WC7IOH7NFMPJF1" target="_blank">
