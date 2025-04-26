@@ -34,8 +34,9 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=600C14&size=35&center=true&v
 
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=haytham-hammioui.haytham-hammioui&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=haytham-hammioui.haytham-hammioui" />
 </div>
+
 
 ###
 
