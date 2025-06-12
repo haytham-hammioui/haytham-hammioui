@@ -6,12 +6,21 @@
 SVG](https://readme-typing-svg.herokuapp.com/?color=600C14&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Haytham;I'm+from+Morocco;I'm+a+It+Student;Be+Welcome!+ツ)
 
 
-
 <h3 align="center">IT Student | Passionate about coding and problem-solving | Always learning, always improving.</h3>
 
 ###
 
+
+
+
+
+
 <h4 align="left">Connect with me:</h4>
+
+
+
+
+
 
 ###
 
@@ -37,7 +46,6 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=600C14&size=35&center=true&v
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=haytham-hammioui.haytham-hammioui" />
 </div>
-
 
 ###
 
@@ -101,4 +109,13 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=600C14&size=35&center=true&v
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=600C14&height=120&section=footer" />
 </a>
 
+<<<<<<< HEAD
                                                                                                 GHA HBIIIIL
+=======
+
+
+
+
+
+
+>>>>>>> origin/main
