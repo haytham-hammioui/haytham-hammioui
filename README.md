@@ -6,12 +6,21 @@
 SVG](https://readme-typing-svg.herokuapp.com/?color=600C14&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Haytham;I'm+from+Morocco;I'm+a+It+Student;Be+Welcome!+ツ)
 
 
-
 <h3 align="center">IT Student | Passionate about coding and problem-solving | Always learning, always improving.</h3>
 
 ###
 
+
+
+
+
+
 <h4 align="left">Connect with me:</h4>
+
+
+
+
+
 
 ###
 
@@ -37,7 +46,6 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=600C14&size=35&center=true&v
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=haytham-hammioui.haytham-hammioui" />
 </div>
-
 
 ###
 
@@ -90,15 +98,11 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=600C14&size=35&center=true&v
 ###
 
 
-
-
 <b>My GitHub Stats</b>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haytham-hammioui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="130" alt="languages graph"  />
 </div>
-
-
 
 
 <a href="#">
