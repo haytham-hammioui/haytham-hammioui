@@ -87,14 +87,11 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=600C14&size=35&center=true&v
 ###
 
 
-
 <b>My GitHub Stats</b>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haytham-hammioui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="130" alt="languages graph"  />
 </div>
-
-
 
 
 <a href="#">
