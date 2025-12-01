@@ -2,25 +2,14 @@
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=600C14&height=120&section=header" />
 </a>
 
-![Typing
-SVG](https://readme-typing-svg.herokuapp.com/?color=600C14&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Haytham;I'm+from+Morocco;I'm+a+It+Student;Be+Welcome!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=600C14&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Haytham;I'm+from+Morocco;I'm+a+It+Student;Be+Welcome!+ツ)
 
 
 <h3 align="center">IT Student | Passionate about coding and problem-solving | Always learning, always improving.</h3>
 
 ###
 
-
-
-
-
-
 <h4 align="left">Connect with me:</h4>
-
-
-
-
-
 
 ###
 
@@ -93,6 +82,8 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=600C14&size=35&center=true&v
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
 </div>
 
 ###
@@ -101,12 +92,5 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=600C14&size=35&center=true&v
 <b>My GitHub Stats</b>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haytham-hammioui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="130" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haytham-hammioui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="130" alt="languages graph"  />
 </div>
-
-
-
-<a href="#">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=600C14&height=120&section=footer" />
-</a>
-
