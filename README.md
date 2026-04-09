@@ -76,6 +76,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="45" alt="SQLite" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="45" alt="Blender" />
+<img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="45" alt="Cisco Packet Tracer" />
+<img src="https://cdn.simpleicons.org/microsoftoffice/D83B01" height="45" alt="Office 365" />
+<img src="https://cdn.simpleicons.org/windows/0078D4" height="45" alt="Windows" />
+<img src="https://cdn.simpleicons.org/powershell/5391FE" height="45" alt="PowerShell" />
 
 </div>
 
