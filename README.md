@@ -4,7 +4,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=600C14&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Haytham;I'm+from+Morocco;I'm+a+It+Student;Be+Welcome!+ツ)
 
-
 <h3 align="center">IT Student | Passionate about coding and problem-solving | Always learning, always improving.</h3>
 
 ###
@@ -28,9 +27,7 @@
   </a>
 </div>
 
-
 ###
-
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=haytham-hammioui.haytham-hammioui" />
@@ -56,16 +53,15 @@
 
 - 📫 How to reach me **haythamhammioui16@gmail.com**
 
-
 ###
 
 <h3 align="left">🛠 Language and tools :</h3>
 
-
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="45" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" alt="Bash" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
@@ -85,11 +81,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haytham-hammioui&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-
-
-
-
 </div>
 
 ###
