@@ -1,8 +1,8 @@
 <a href="#">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=600C14&height=120&section=header" />
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E3A8A&height=120&section=header" />
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=600C14&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Haytham;I'm+from+Morocco;I'm+a+It+Student;Be+Welcome!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E3A8A&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Haytham;I'm+from+Morocco;I'm+a+It+Student;Be+Welcome!+ツ)
 
 <h3 align="center">IT Student | Passionate about coding and problem-solving | Always learning, always improving.</h3>
 
@@ -86,5 +86,5 @@
 ###
 
 <a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=600C14&height=120&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E3A8A&height=120&section=footer" />
 </a>
